@@ -3,4 +3,4 @@ Haciendo el tutorial de GitHub
 
 Hi GitHub developers,
 
-I am new here and I expect to learn and collaborates with all of you.
+I am new here and I expect to learn and collaborate with all of you.
